@@ -1,0 +1,26 @@
+body{
+    background-color: coral;
+    text-align: center;
+}
+
+.domImage{
+    background-image: url(../assets/the\ dom.jpg);
+    width: 40rem;
+    height: 25rem;
+}
+
+.moveCard{
+    display: flex;
+    justify-content: end;
+}
+
+.change1{
+    font-size: 100px;
+    font-weight: bold;
+    color: blue;
+}
+.change2{
+    font-size: 30px;
+    color: blue;
+    font-style: italic;
+}
