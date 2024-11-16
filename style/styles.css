@@ -24,3 +24,11 @@ body{
     color: blue;
     font-style: italic;
 }
+.textChange{
+    font-size: 25px;
+    color: black;
+}
+
+.bodyChange{
+    background-color: red;
+}
