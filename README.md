@@ -10,6 +10,8 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Santiago Jesus Montanez
 
-**Reviewer Notes**: 
+**Reviewer Notes**:
+
+All the buttons work as intended. Not one doesn't work. Good job
